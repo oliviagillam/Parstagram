@@ -12,8 +12,8 @@ The following **required** functionality is completed:
 - [X] User sees app icon in home screen and styled launch screen. (1pt)
 - [X] User can sign up to create a new account. (1pt)
 - [X] User can log in. (1pt)
-- [ ] User can take a photo, add a caption, and post it to the server. (3pt)
-- [ ] User can view the last 20 posts. (4pts)
+- [X] User can take a photo, add a caption, and post it to the server. (3pt)
+- [X] User can view the last 20 posts. (4pts)
 
 The following **bonus** features are implemented:
 
@@ -24,4 +24,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/oliviagillam/Parstagram/blob/master/ezgif.com-gif-maker%20(6).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
